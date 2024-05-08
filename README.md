@@ -1,4 +1,4 @@
-# CS982
+# Home Credit Default prediction 
 
 This report is for performing in-depth analysis on the [Home Credit]([url](https://www.kaggle.com/code/phamdinhkhanh/home-credit-default-risk/notebook)) dataset, with the aim to provide understanding into the dataset and create a model to predict the default rate of clients using just the application data (This mean the prediction process will not include the payment behavior data after the line of credit has been issued) 
 
